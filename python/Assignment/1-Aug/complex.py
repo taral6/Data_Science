@@ -5,7 +5,7 @@ Created on Fri Aug  6 16:11:14 2021
 
 @author: taral
 """
-
+comp = 2+3j
 comp_1 = 0+2j
 comp_2 = 1+2j
 print(f'''real={comp.real}, type(real)={type(comp.real)}, imag={comp.imag},type(imag)={(type(comp.imag))}\n''')
